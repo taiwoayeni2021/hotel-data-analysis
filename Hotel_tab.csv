@@ -1,0 +1,101 @@
+﻿Booking_ID,Date,Customer_Type,Room_Type,Booking_Source,Nights_Stayed,Total_Amount,Occupancy_Rate,Hotel_Branch,Guest_Country
+c7f44c2c-fd20-434c-932f-220eadd52ad0,2024-07-10,Business,Suite,Direct,10,2790,0.82,Downtown,UK
+7f324f5a-b6f5-4722-8637-4cb29e22b530,2025-02-24,Walk-in,Family,Online,7,1533,0.66,Mountain View,Canada
+50063ec3-576f-4eff-8caa-32a2c7d8590f,2025-03-10,Business,Deluxe,Direct,9,2232,0.71,Downtown,France
+3f346cfb-d577-4c10-bfa5-8653b6a1bc47,2024-10-19,Group,Standard,Online,1,127,0.9,Airport,USA
+dc37c74e-494b-46c5-90dd-c08802ba5afe,2025-03-23,Leisure,Deluxe,Online,8,2256,0.97,Downtown,France
+1d0cf7ea-a883-4f61-abab-a67d55d99f57,2024-07-07,Leisure,Suite,Corporate,7,1435,0.5,Airport,Germany
+d2c1d607-1feb-42b3-97c6-29eeec73ca97,2025-02-03,Leisure,Deluxe,Travel Agency,6,996,0.54,Mountain View,Germany
+1bb32ff1-893c-498b-80ea-84ba55324a87,2025-02-12,Leisure,Deluxe,Online,10,1760,0.57,Mountain View,France
+29f35bdb-3ed6-4268-994f-3c7831e93ed3,2024-09-21,Walk-in,Suite,Corporate,1,130,0.84,Mountain View,Germany
+b4f569c4-fb43-4542-b500-c43cf177bacd,2024-12-25,Leisure,Family,Corporate,4,788,0.52,Downtown,Canada
+5167c2a1-61de-4c2f-a8fa-117cedbaf3b3,2024-09-20,Walk-in,Deluxe,Direct,4,772,0.76,Airport,USA
+c039b8e6-8dc8-41ac-afa9-c49aaeb2976f,2024-12-26,Business,Family,Direct,5,535,0.53,Seaside,USA
+76cf053d-43c4-478a-affc-464f514a180c,2025-03-25,Walk-in,Suite,Corporate,5,775,0.81,Seaside,Nigeria
+3889eeea-14ca-4495-967d-d77676053804,2024-12-21,Group,Family,Direct,5,565,0.78,Downtown,Germany
+1a35ca5d-5edc-453d-addc-eb385212c0cc,2024-12-25,Business,Family,Direct,2,206,0.85,Airport,USA
+3ef6d166-c60e-46a0-82ad-7477bab1f309,2024-07-16,Business,Deluxe,Corporate,7,1680,0.71,Downtown,Nigeria
+df68a589-a5ca-4506-bcb5-4c0225810338,2024-12-25,Group,Family,Travel Agency,6,1320,0.67,Downtown,Nigeria
+bf6edae8-1ea4-4e20-bbf4-fa905443766f,2024-08-04,Group,Standard,Direct,3,300,0.96,Seaside,France
+8fe03770-793d-4a99-b3ef-5aa7615857e5,2024-09-06,Leisure,Suite,Direct,10,2120,0.99,Downtown,USA
+79bb4dfb-e2c4-4fdd-be76-9483b16bd499,2025-02-07,Walk-in,Suite,Online,7,1134,0.97,Airport,France
+431fd4c1-8a13-40a4-bb02-ea926b6142c8,2024-10-16,Group,Suite,Travel Agency,7,1316,0.62,Mountain View,Canada
+8d45a461-2a95-47b0-a1f9-676c309fff66,2024-10-14,Leisure,Deluxe,Direct,5,705,0.86,Seaside,Germany
+23a8f705-1df2-40c2-8912-8d38fef1358a,2024-10-22,Leisure,Suite,Travel Agency,10,1150,0.54,Downtown,Canada
+0cd39359-3e91-45f5-ba45-d2af0cad4c7b,2025-04-16,Leisure,Standard,Travel Agency,7,1897,0.69,Seaside,Germany
+d12684fd-acf9-4a05-952c-4fc39e44d7b7,2024-09-14,Walk-in,Suite,Direct,3,444,0.83,Seaside,UK
+0bb43736-47f1-43e9-8597-ca3de10cbb9a,2025-04-04,Group,Standard,Travel Agency,7,1099,0.9,Mountain View,Nigeria
+2c3c16db-99ff-495b-bb9e-1fe583390667,2025-03-02,Leisure,Suite,Corporate,2,218,0.51,Seaside,Nigeria
+e4a8ae59-24ac-4f5a-97e3-062cbc2168b6,2024-09-11,Leisure,Family,Corporate,4,944,0.84,Seaside,Germany
+19b30800-59e7-464c-8369-241328263f4c,2025-01-26,Walk-in,Deluxe,Online,10,2030,0.68,Mountain View,Nigeria
+e89523b4-802c-4668-8dcc-1f9ca184ae7d,2025-04-18,Business,Family,Online,3,852,0.51,Airport,USA
+439cef7f-93d5-40f9-a19b-66f43f37ca2e,2025-05-05,Walk-in,Standard,Online,2,594,0.52,Downtown,Nigeria
+9a73eae4-7684-4e5f-8562-70c62b5b51d1,2024-06-04,Business,Standard,Online,7,1778,0.51,Seaside,Nigeria
+2dde5492-0a4c-4853-9f8f-259779aa35f6,2024-06-27,Group,Standard,Corporate,7,924,0.62,Mountain View,France
+fd9876c6-540e-43d7-ab78-5ea5e6f85e6a,2024-09-16,Business,Family,Travel Agency,10,2140,0.83,Airport,France
+eafbec38-3b0b-4fef-b878-a479d89a00c1,2024-08-28,Business,Standard,Travel Agency,7,1813,0.96,Mountain View,UK
+ef4c9ba7-c7c6-4293-a4f8-d45b42cd9e73,2024-07-18,Group,Family,Corporate,1,281,0.71,Airport,Nigeria
+208c677f-bced-4991-83e4-b8daf3739391,2025-01-01,Leisure,Standard,Direct,6,1542,0.87,Airport,Canada
+8281338b-f1d1-4a8e-a1d0-6f7f606aad83,2024-09-11,Leisure,Family,Direct,2,164,0.79,Airport,Germany
+6abc3037-e7e9-4115-ad00-44d98f9ce925,2024-07-29,Business,Suite,Corporate,9,1944,0.5,Airport,UK
+acd1d108-af06-4d72-baa4-0d5da10c6744,2024-12-12,Group,Standard,Direct,5,1220,0.86,Airport,Nigeria
+57c056d3-cc06-423e-8065-073fd1bf631c,2025-03-22,Walk-in,Family,Online,5,1245,0.62,Downtown,Germany
+9929b000-a7fc-47f6-81c1-0e692af2d054,2024-10-02,Business,Deluxe,Direct,4,876,0.81,Airport,USA
+5ad07f0d-e78c-439e-8d7b-80e0f1ad2759,2025-01-30,Leisure,Standard,Corporate,4,1080,0.69,Seaside,UK
+a8bd5388-11b0-4835-b144-e6ab76a12bc2,2024-09-24,Business,Family,Corporate,5,1120,0.71,Seaside,UK
+b145de2c-12d5-4b73-add0-b8856968dde7,2024-09-05,Business,Suite,Travel Agency,1,194,0.93,Airport,Germany
+d12c12f1-f4f5-4aa5-8467-117fd93dcba3,2024-09-11,Business,Family,Online,8,1248,0.67,Airport,Nigeria
+e08f2712-cb33-4d97-9f8b-dfa5c9a40688,2024-09-16,Group,Suite,Travel Agency,9,1620,0.85,Airport,Canada
+59866202-a2f0-4291-974f-2413a152ece5,2024-09-30,Group,Deluxe,Online,1,139,0.87,Mountain View,France
+10175738-48d9-457e-a2f8-720e4aa50381,2024-06-25,Leisure,Standard,Corporate,10,950,0.68,Seaside,UK
+eef3a958-61c3-4473-9e74-f6b1af0d02ad,2024-08-16,Business,Deluxe,Corporate,4,1008,0.74,Airport,USA
+f7ee53b8-9366-4b2d-ab3c-e196e1dff358,2024-11-19,Leisure,Standard,Travel Agency,8,1640,0.53,Downtown,France
+5c4a3ffb-a4fe-4d5e-854d-e8c39bc79f11,2024-10-28,Leisure,Deluxe,Direct,4,1200,0.75,Mountain View,France
+35c9f0be-12c3-4a50-9c00-48854f2968d7,2024-11-15,Business,Family,Direct,1,268,0.56,Seaside,Nigeria
+219e6e2c-5bb3-428c-b4b3-a7fb17e74f29,2025-03-01,Business,Family,Corporate,5,1290,0.75,Downtown,UK
+5c1b1708-07ff-4f65-9fc4-24672402f599,2025-03-04,Group,Suite,Travel Agency,3,366,0.76,Mountain View,France
+0c97341e-6dff-4aaa-aa98-6b653ad6a647,2024-10-03,Leisure,Deluxe,Corporate,10,2950,0.59,Downtown,UK
+610c80fa-2164-41a2-8bbb-b4f933ec34bf,2025-02-22,Group,Suite,Corporate,5,495,0.89,Seaside,UK
+04d49cc2-c3ce-4fab-aab6-51331b6acc02,2025-02-12,Walk-in,Suite,Online,5,1290,0.54,Mountain View,Canada
+65a789c3-7976-4c0c-9690-183c61b4f0b6,2025-05-05,Group,Family,Corporate,8,2280,0.78,Airport,France
+487e4d6a-5f02-422f-afe8-69daec360cd4,2024-07-18,Business,Deluxe,Travel Agency,2,190,0.79,Seaside,Canada
+57633124-8c32-48ab-a1d2-48f98a6edbd3,2024-11-02,Leisure,Deluxe,Online,3,576,0.65,Mountain View,Germany
+954b5b3d-50ee-4d92-b522-53ec42e27cd7,2024-10-04,Business,Standard,Travel Agency,4,912,0.82,Downtown,Nigeria
+e273d1c1-60d6-4e28-8432-d488871f8c74,2024-07-12,Walk-in,Family,Corporate,1,253,0.9,Seaside,UK
+e714d903-ecea-43d1-a3bd-7caad4f5f3a8,2024-06-28,Group,Deluxe,Online,4,660,0.96,Mountain View,UK
+a37962c8-8e97-4653-bdbb-d68bb7440fc7,2024-07-11,Walk-in,Suite,Direct,1,140,0.89,Mountain View,USA
+354c9d6b-e7c4-4dd7-916a-25e3dbab1abc,2024-09-18,Walk-in,Family,Online,1,209,0.82,Mountain View,Germany
+e06aaa16-c672-4161-b4df-e1051dbdf60b,2025-03-29,Business,Standard,Corporate,2,350,0.73,Mountain View,USA
+20aae396-cc31-4030-b614-0941779d085d,2024-10-29,Business,Standard,Direct,8,1096,0.79,Mountain View,Nigeria
+e093c049-4aee-40f6-a65c-66d7129b5b32,2024-07-05,Business,Family,Corporate,5,1295,0.5,Seaside,Germany
+60ad8417-fe3b-41c9-a34e-f9caf10209f0,2025-04-14,Business,Standard,Corporate,8,2208,0.82,Mountain View,France
+ae854f8f-6666-4dc7-88c8-3d162625999e,2024-11-07,Business,Standard,Direct,4,1132,0.76,Downtown,UK
+501236ee-6dfd-4000-8a10-aaab513ea36a,2024-11-27,Business,Standard,Corporate,2,198,0.9,Seaside,Nigeria
+535c95a2-8740-4010-8aa2-0d3a5a7addc6,2025-02-02,Leisure,Standard,Online,4,656,0.59,Seaside,Germany
+f89dd113-7679-4d99-a1e0-b5c7e10b9f13,2025-04-03,Business,Family,Travel Agency,7,994,0.58,Seaside,Germany
+c4fa1d12-34a9-418f-9f86-687363a6a778,2024-07-20,Business,Suite,Travel Agency,4,884,0.58,Mountain View,Germany
+d4102dd5-e929-407b-beab-15ebcab2c046,2024-05-27,Group,Deluxe,Online,5,430,0.79,Airport,USA
+515a58e6-5433-49fe-85f4-5ce13ff65c13,2025-03-30,Walk-in,Deluxe,Direct,1,80,0.76,Airport,UK
+35169f3d-3404-416a-9fa9-aa6ba7e8e08a,2024-11-10,Business,Deluxe,Online,1,87,0.56,Airport,Canada
+d2254ed6-c7dc-4cdc-906d-da24eac6632a,2024-11-29,Leisure,Deluxe,Direct,9,837,0.9,Mountain View,UK
+2023bccf-704a-4637-8525-961ccec7a575,2024-08-05,Leisure,Family,Corporate,5,1230,0.88,Airport,France
+4d8c21bf-201e-4fbb-b035-52a876310b8a,2024-05-12,Leisure,Suite,Travel Agency,2,292,0.81,Mountain View,UK
+12d273aa-20eb-4e37-8ee0-7c13cf2644e8,2024-12-14,Leisure,Family,Travel Agency,6,1668,0.59,Airport,Nigeria
+cf276836-c1d0-44c4-83ce-7283b28bb112,2025-02-12,Walk-in,Standard,Online,6,600,0.74,Downtown,USA
+73d610ba-9b39-47bd-a545-c3ffdcb6785d,2025-01-03,Business,Standard,Travel Agency,10,2200,0.78,Airport,France
+233f7b0a-3b9b-4b6c-aac4-bb685fe78b72,2024-11-27,Walk-in,Family,Corporate,9,2673,0.94,Airport,Canada
+85928757-2a43-487c-9eb8-817972818617,2024-12-09,Walk-in,Suite,Direct,5,715,0.95,Mountain View,Canada
+90fe9abf-eef1-49cb-9c04-af5baf80fc3a,2024-10-27,Business,Family,Travel Agency,6,828,0.68,Airport,France
+5c6f60c0-5e8c-4212-b63d-a466db6527b7,2025-04-13,Business,Standard,Online,5,940,0.5,Airport,Germany
+2c8e2ceb-7ee5-4e75-afcf-2f0995182ffc,2025-04-08,Group,Deluxe,Direct,4,832,0.96,Mountain View,UK
+c83b7992-8302-449a-a296-f0545d442b02,2025-05-11,Business,Suite,Corporate,8,1048,0.97,Seaside,USA
+26ff8f18-f1bf-4dc4-8586-e0ff6f9da75d,2025-01-20,Walk-in,Family,Travel Agency,8,688,0.58,Downtown,Canada
+19e1fb26-4361-472c-9360-7e656549beaa,2024-05-17,Group,Suite,Direct,2,378,0.74,Airport,Nigeria
+8bea766b-becd-425c-9a1b-3ccc690849f9,2024-05-20,Group,Deluxe,Travel Agency,9,2178,0.88,Mountain View,Germany
+4b55d924-b5c4-4d27-be47-531ea5b3b7a0,2024-12-21,Leisure,Family,Travel Agency,2,210,0.85,Downtown,France
+81a971e9-9f61-42fa-bbff-d1cc5d9e7078,2024-10-11,Leisure,Suite,Online,3,750,0.67,Seaside,Germany
+d5227dc9-1670-4e6e-a3ec-9ca2cbd23ba5,2025-04-02,Business,Standard,Direct,9,747,0.9,Seaside,Nigeria
+5c64bbbb-e5d8-48a4-a02f-b562b1632d70,2024-08-05,Business,Family,Travel Agency,1,184,0.99,Airport,UK
+bfdffa17-af7e-45c2-ac66-5bc31a5f1270,2024-07-04,Walk-in,Family,Corporate,4,412,0.56,Mountain View,Canada
+63b31205-3d60-4688-860c-045e1977e5d3,2024-06-05,Business,Deluxe,Corporate,9,1566,0.68,Downtown,Canada
+bcd9fb88-b8e7-4088-8e60-25004d510023,2025-04-12,Group,Standard,Direct,10,2700,0.91,Seaside,Germany
